@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>quickandroid/examples/quickandroidexample/theme/ActionBarBackground.qml</file>
+        <file>quickandroid/examples/quickandroidexample/theme/AppTheme.qml</file>
+        <file>quickandroid/examples/quickandroidexample/theme/qmldir</file>
+    </qresource>
+    <qresource prefix="/res">
+        <file>res/drawable-xxhdpi/ic_android_black_48dp.png</file>
+        <file>res/drawable-xxhdpi/ic_add_black_24dp.png</file>
+        <file>res/drawable-xxhdpi/ic_add_black_48dp.png</file>
+        <file>res/drawable-xxhdpi/ic_add_box_black_48dp.png</file>
+        <file>res/drawable-xxhdpi/ic_arrow_back.png</file>
+        <file>res/drawable-xxhdpi/ic_autorenew_black_48dp.png</file>
+        <file>res/drawable-xxhdpi/ic_camera.png</file>
+        <file>res/drawable-xxhdpi/ic_done_black_24dp.png</file>
+        <file>res/drawable-xxhdpi/ic_image.png</file>
+        <file>res/drawable-xxhdpi/ic_keyboard_backspace.png</file>
+        <file>res/drawable-xxhdpi/ic_menu.png</file>
+        <file>res/drawable-xxhdpi/vk.png</file>
+    </qresource>
+    <qresource prefix="/items">
+        <file>LentaPost.qml</file>
+        <file>NavigationDrawer.qml</file>
+        <file>PhotoBottomSheet.qml</file>
+        <file>PhotoList.qml</file>
+        <file>MySwitch.qml</file>
+        <file>LoginWindowVk.qml</file>
+    </qresource>
+    <qresource prefix="/pages">
+        <file>Lenta.qml</file>
+        <file>Login.qml</file>
+        <file>NewPost.qml</file>
+        <file>SignUp.qml</file>
+        <file>Start.qml</file>
+        <file>My.qml</file>
+        <file>Post.qml</file>
+        <file>LoginVk.qml</file>
+    </qresource>
+    <qresource prefix="/js">
+        <file>URLQuery.js</file>
+        <file>XHR.js</file>
+    </qresource>
+</RCC>
